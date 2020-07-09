@@ -15,11 +15,4 @@
  
 def speak_to_grandma(phase = )
   if 
-  
-  puts "Hi Nana, how are you?".upcase 
-  if false  
-puts "HUH?! SPEAK UP, SONNY!"
-  else 
-    puts "NO, NOT SINCE 1938!"
-  end
-end
+ 
