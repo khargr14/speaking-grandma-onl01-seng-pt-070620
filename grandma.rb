@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
  
-def speak_to_grandma(phase = "I LOVE YOU GRANDMA!" )
-  put
+def speak_to_grandma(responds = "I LOVE YOU GRANDMA!" )
+  put 
 end
   
