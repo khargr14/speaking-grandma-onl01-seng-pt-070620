@@ -13,7 +13,3 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
  
-def speak_to_grandma(responds = "I LOVE YOU GRANDMA!" )
-  put 
-end
-  
