@@ -21,4 +21,5 @@ describe '#speak_to_grandma' do
 
 end
 
-def speak_to_grandma(phase ='I LOVE YOU GRANDMA!' )
+def speak_to_grandma(phase ='I LOVE YOU GRANDMA!')
+end
