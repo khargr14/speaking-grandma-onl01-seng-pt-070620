@@ -13,12 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
  
-def speak_to_grandma(phase ='I LOVE YOU GRANDMA!')
-  put phase
-  return
-  
-  
-  
-  
-  
+def speak_to_grandma
+  puts "Hi Nana, how are you?".upcase 
+  if false  
+puts "HUH?! SPEAK UP, SONNY!"
+  else 
+    puts "NO, NOT SINCE 1938!"
+  end
 end
