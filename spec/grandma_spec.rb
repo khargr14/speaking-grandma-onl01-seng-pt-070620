@@ -21,12 +21,3 @@ describe '#speak_to_grandma' do
 
 end
 
-def speak_to_grandma(phase ='I LOVE YOU GRANDMA!')
-  put phase
-  return
-  
-  
-  
-  
-  
-end
