@@ -21,3 +21,4 @@ describe '#speak_to_grandma' do
 
 end
 
+def speak_to_grandma(phase = )
