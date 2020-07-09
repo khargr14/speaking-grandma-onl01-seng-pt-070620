@@ -13,3 +13,12 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
  
+def speak_to_grandma(phase ='I LOVE YOU GRANDMA!')
+  put phase
+  return
+  
+  
+  
+  
+  
+end
